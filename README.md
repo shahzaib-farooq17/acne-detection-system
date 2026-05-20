@@ -59,6 +59,7 @@ The model is trained on a dataset of facial images containing acne and non-acne 
 
 ## 👨‍💻 Author
 Shahzaib Farooq  
+For Any Query Mail (fshahzaib295@gmail.com)
 Final Year Project – BS Information Technology
 
 ---
