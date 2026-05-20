@@ -1,21 +1,67 @@
-<<<<<<< HEAD
-# acneapp
+# AI-Based Acne Detection System
 
-A new Flutter project.
+## 📌 Project Overview
+The AI-Based Acne Detection System is a Final Year Project designed to automatically detect acne from facial images using Artificial Intelligence and Deep Learning. The system helps users analyze skin conditions quickly without requiring immediate dermatologist consultation.
 
-## Getting Started
+The model is based on ResNet-18, a powerful deep learning architecture used for image classification. It processes facial images, detects acne presence, and provides results based on trained data.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🎯 Objective
+The main objective of this project is to develop an efficient and automated system that can:
+- Detect acne from facial images
+- Reduce the need for manual diagnosis
+- Provide fast and accessible skin analysis using AI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# acne-detection-system
-AI-Based Acne Detection System is a Final Year Project developed using Python and Deep Learning techniques to detect acne from facial images. The system uses the ResNet-18 model for image classification and analysis, helping users identify acne conditions through an automated AI-powered approach.
->>>>>>> 10a27e02e07bda0f8f821971fb1ec684a8f86b74
+## ⚙️ Technologies Used
+- Python
+- PyTorch
+- Deep Learning
+- ResNet-18 Model
+- OpenCV
+- NumPy
+- Google Colab
+
+---
+
+## 🧠 How It Works
+1. Input facial image is taken from the user
+2. Image is preprocessed (resize, normalization, enhancement)
+3. Trained ResNet-18 model analyzes the image
+4. System predicts acne presence or absence
+5. Result is displayed to the user
+
+---
+
+## 🚀 Features
+- AI-based acne detection from images
+- Deep learning model (ResNet-18)
+- Image preprocessing pipeline
+- Fast prediction results
+- Easy to use system
+
+---
+
+## 📊 Dataset
+The model is trained on a dataset of facial images containing acne and non-acne samples. Images are labeled and used for supervised learning.
+
+---
+
+## 📌 Future Improvements
+- Acne severity classification (mild, moderate, severe)
+- Skincare product recommendations
+- Mobile application integration
+- Real-time camera detection
+
+---
+
+## 👨‍💻 Author
+Shahzaib Farooq  
+Final Year Project – BS Information Technology
+
+---
+
+## 📄 License
+This project is developed for academic purposes. Unauthorized copying or redistribution is not permitted.
