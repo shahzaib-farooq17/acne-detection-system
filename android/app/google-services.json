@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477043141867",
+    "project_id": "acneapp-dd5d2",
+    "storage_bucket": "acneapp-dd5d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477043141867:android:4c2700ee23ae65e90ae2ae",
+        "android_client_info": {
+          "package_name": "com.example.acneapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2AJE49U8byg4Tq1iOucANPZ8tUk9WnqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
