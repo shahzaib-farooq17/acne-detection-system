@@ -13,7 +13,7 @@ class _AcneFactsScreenState extends State<AcneFactsScreen> {
   List<String> facts = [];
   bool isLoading = true;
 
-  static const String geminiApiKey = "AIzaSyBQWo16qnqE9nVZe6NOi16NgY959g_pyOk";
+  static const String geminiApiKey = "Api Key";
 
   static const String url =
       "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key=$geminiApiKey";
