@@ -61,7 +61,7 @@ class _ScanSkinScreenState extends State<ScanSkinScreen> {
   }
 
   // ── Gemini ────────────────────────────────────────────────────────────────
-  static const String _geminiApiKey = "AIzaSyBQWo16qnqE9nVZe6NOi16NgY959g_pyOk";
+  static const String _geminiApiKey = "API Key";
   static const String _geminiUrl =
       "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=$_geminiApiKey";
 
