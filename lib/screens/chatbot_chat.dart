@@ -15,7 +15,7 @@ class _AcneChatbotScreenState extends State<AcneChatbotScreen> {
   final List<Map<String, dynamic>> _messages = [];
   bool isTyping = false;
 
-  static const String geminiApiKey = "AIzaSyBQWo16qnqE9nVZe6NOi16NgY959g_pyOk";
+  static const String geminiApiKey = "API key";
 
   static const String geminiUrl =
       "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key=$geminiApiKey";
