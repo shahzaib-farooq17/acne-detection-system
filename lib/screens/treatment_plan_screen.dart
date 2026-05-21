@@ -18,7 +18,7 @@ class _TreatmentPlanScreenState extends State<TreatmentPlanScreen> {
   String? skinType;
   bool isLoading = true;
 
-  static const String geminiApiKey = "AIzaSyBQWo16qnqE9nVZe6NOi16NgY959g_pyOk";
+  static const String geminiApiKey = "API Key ";
 
   static const String geminiUrl =
       "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key=$geminiApiKey";
